@@ -371,6 +371,7 @@ button, input, select, textarea {
   display: inline-block; 
   position: relative;
   padding: 0px;
+  width: 100%;
 }
 .center {
   position: absolute;
